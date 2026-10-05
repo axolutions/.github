@@ -4,9 +4,9 @@
 
 **Prévia funcional do seu projeto no mesmo dia, sem custo.**
 
-Startup brasileira de desenvolvimento de software · São Paulo, SP
+Startup brasileira de desenvolvimento de software e tecnologia open source · São Paulo, SP
 
-[Site](https://www.axolutions.com.br) · [WhatsApp](https://wa.me/5511949360561) · [Plataforma](https://www.axolutions.com.br/plataforma.html) · [Blog](https://www.axolutions.com.br/blog.html)
+[Site](https://www.axolutions.com.br) · [WhatsApp](https://wa.me/5511949360561) · [Plataforma](https://www.axolutions.com.br/plataforma.html) · [Blog](https://www.axolutions.com.br/blog) · [Open source](https://www.axolutions.com.br/open-source)
 
 </div>
 
@@ -37,6 +37,20 @@ A empresa foi constituída em 2022, depois de dois anos construindo e validando 
 - **Aplicativos mobile** — nativos e híbridos para iOS e Android, publicados nas duas lojas
 - **E-commerce** — módulos de pagamento, estoque, catálogo e entregas
 - **Automações e atendimento com IA** — chatbots e agentes integrados ao WhatsApp
+
+---
+
+## Open source
+
+Parte do que construímos para os nossos produtos fica aberta, com licença MIT, para qualquer pessoa usar, estudar e melhorar.
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**prospectar-engine**](https://github.com/axolutions/prospectar-engine) | Motor de prospecção de leads locais: raspa o Bing Maps e entrega nome, telefone, site e endereço por SSE ou fila no MongoDB. É o motor do Prospectar, no Órbita | Rust, axum, Chromium |
+| [**webo**](https://github.com/axolutions/webo) | Painel de saúde de servidor num binário só (<50 MB de RAM), com API JSON e servidor MCP para agentes de IA | Rust |
+| [**axolutions-brand-design-system**](https://github.com/axolutions/axolutions-brand-design-system) | Design system da Axolutions como skill de IA: aplica o padrão visual a qualquer repositório e deixa um `DESIGN.md` | Tailwind, shadcn/ui |
+
+Mais em [axolutions.com.br/open-source](https://www.axolutions.com.br/open-source).
 
 ---
 
